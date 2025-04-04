@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @milind4040
-- 👀 I’m interested in web developement
+- 👋 Hi, I’m Milind Kamble
+- 👀 I’m interested in Python developement
 - 🌱 I’m currently learning data structure
 - 💞️ I’m looking to collaborate on backend
 - 📫 How to reach me milindkamble4040@gmail.com
