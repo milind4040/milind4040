@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milind Kamble</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right"alt="coding" width="300"src="![image](https://github.com/user-attachments/assets/aab180e4-f627-4b91-b37d-6721bce016e4)
+![image](https://github.com/user-attachments/assets/aab180e4-f627-4b91-b37d-6721bce016e4)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milind4040&label=Profile%20views&color=0e75b6&style=flat" alt="milind4040" /> </p>
